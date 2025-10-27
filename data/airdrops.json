@@ -1,0 +1,46 @@
+[
+  {
+    "id": "d21a9cb8-b3fa-4952-be27-d42a5084e41c",
+    "name": "idOS",
+    "url": "https://app.idos.network/",
+    "checkedIn": false,
+    "category": "General",
+    "priority": "Medium",
+    "progress": 99,
+    "description": "",
+    "tags": []
+  },
+  {
+    "id": "ed731d68-858c-4787-bcb3-a099f5fc58e4",
+    "name": "FreeMan ($TRUST)",
+    "url": "https://t.me/dmf0_bot",
+    "checkedIn": false,
+    "category": "General",
+    "priority": "High",
+    "progress": 0,
+    "description": "",
+    "tags": []
+  },
+  {
+    "id": "a4b3f56e-ba32-4893-8852-59f91c6a5a99",
+    "name": "SimCluster ($CLOUT)",
+    "url": "https://simcluster.ai/",
+    "checkedIn": false,
+    "category": "General",
+    "priority": "Medium",
+    "progress": 0,
+    "description": "",
+    "tags": []
+  },
+  {
+    "id": "5d6e5cd7-9ccc-4065-83e0-d1623407331d",
+    "name": "GRASS ($GRASS)",
+    "url": "grass.io",
+    "checkedIn": false,
+    "category": "Other",
+    "priority": "Low",
+    "progress": 0,
+    "description": "Network Node\n",
+    "tags": []
+  }
+]
